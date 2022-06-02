@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    background-color: rgb(49, 218, 218);
+    color: white;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+.hh {
+    text-align: center;
+    font-size: 30px;
+    padding: 3%;
+    font-family: sans-serif;
+}
+
+form {
+    width: 49%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+input,
+textarea {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 0;
+    border-radius: 2px;
+    color: rgb(146, 143, 143);
+}
+
+.nn {
+    display: block;
+    width: 49%;
+}
+
+.ee {
+    display: block;
+    width: 49%;
+}
+
+.tt {
+    display: block;
+    width: 49%;
+}
+
+.cc {
+    width: 20%;
+}
+
+.pp {
+    width: 20%;
+    margin-left: 5%;
+}
+
+.find {
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 5%;
+    margin-left: 9%;
+}
+
+button {
+    padding: 10px;
+    background-color: rgb(245, 245, 61);
+    border: 0;
+    border-radius: 2px;
+    margin-bottom: 5%;
+    color: rgb(82, 80, 80);
+    margin-left: 31%;
+}
+
+.bb {
+    font-family: sans-serif;
+}
+
+p {
+    font-size: small;
+}
+
+a {
+    text-decoration: none;
+    color: yellow;
+}
+
+ul {
+    margin-top: 4%;
+    margin-left: 2%;
+}

@@ -1,0 +1,142 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+     background-color: #4F4D53;
+   
+    
+}
+input{
+   
+    background-color: rgb(70, 70, 70);
+    border:#4F4D53;
+   padding: 5px; ;
+    
+}
+.hero
+{
+    width: auto;
+    height: 505px;
+    background-image:  url(../media/img_hero.jpg);
+    background-position: center;
+    background-size: cover;
+    /* position: relative; */
+   
+}
+ h1{
+     font-family:  Roboto,  sans-serif;
+    font-size: 100px;
+    text-align: center;
+   color:#4F4D53 ;
+      margin-right: 40px;
+padding: 110px;
+
+       color:#4F4D53 ;
+ }   
+ .p
+{
+   border-radius: 50%;
+   width: 150px;
+   height: 150px;
+   margin-left: 60px;
+   visibility: middle;
+}
+ 
+h2{
+    margin-right: 40px;
+   font-size: 64px;
+ text-align: center;
+font-family: Roboto, ' sans-serif';
+    color:#E8BE02 ;
+   
+
+
+}
+.f{
+    font-family:  Roboto,  sans-serif;
+    color :#4F4D53 ;
+    font-size: 20px; 
+  
+text-align: center;
+    
+    margin-right:auto;
+    margin-left:auto;
+    margin-bottom: 40px;
+   
+}
+.cardd{
+    margin-left: 10 0px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+  
+}
+.M{
+
+   border-radius: 50%;
+   width: 75px;
+   height: 75px;
+   
+
+}
+h3{
+    font-size: 20px;
+   font-family:Roboto, sans-serif;
+    color:#E8BE02;
+}
+.mo
+{
+    color:#E8BE02 ; 
+    margin-left: 10px;
+    margin-top: 20px;  
+    margin-bottom: 20px;
+}
+
+.k{
+    font-family:  Roboto,  sans-serif;
+    color :#4F4D53 ;
+    font-size: 20px;  
+  
+}
+
+
+ul{
+   list-style: none;
+   vertical-align: middle;
+   margin-top: 40px;
+ 
+}
+h4{
+    font-size: 14px;
+    font-family: Roboto, sans-serif;
+    margin-left: 20px;
+    color:#ffffff;
+  
+}
+
+footer .ul h3,h4{
+	text-transform:uppercase;
+	text-decoration:none;
+
+	font-size:12px;
+
+}
+footer{
+    height: 320px;
+    width:100%;
+	float:left;
+	text-align:left;
+	color:#fff;
+	height:auto;
+	border-bottom: 20px #E8BE02;
+	background-color:#4F4D53;
+}
+
+
